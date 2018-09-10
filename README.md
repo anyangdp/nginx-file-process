@@ -1,4 +1,4 @@
-# nginx-file-process
+# nginx-file-process（有效就点个star吧，谢谢🙏🙏，有问题issuse创建问题）
 nginx文件处理demo（服务器系统cenos 7.4）
 ## 安装要求
 1.nginx版本：1.14.0
